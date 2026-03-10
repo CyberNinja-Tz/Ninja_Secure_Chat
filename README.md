@@ -38,7 +38,7 @@ Stay updated with Cyber Security trends and Red Teaming tutorials through my pro
 * **IRC Library** (Auto-installed by the script)
 * **Active Internet Connection** (WAN)
 
-**How To Use Whatch [Video Here](https://google.com)**
+**How To Use Whatch [Video Here](https://www.youtube.com/watch?v=wppw-TUgJ0U)**
 
 
 ## 🚀 Installation & Usage
