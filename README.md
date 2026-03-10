@@ -44,7 +44,7 @@ To deploy **Ninja_Secure_Chat**, follow these steps in your terminal:
 
 ```bash
 # 1. Clone this repository
-git clone [https://github.com/CyberNinja-Tz/Ninja_Secure_Chat](https://github.com/CyberNinja-Tz/Ninja_Secure_Chat)
+git clone https://github.com/CyberNinja-Tz/Ninja_Secure_Chat
 
 # 2. Navigate to the directory
 cd Ninja_Secure_Chat
