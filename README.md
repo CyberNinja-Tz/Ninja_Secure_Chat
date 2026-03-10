@@ -38,6 +38,9 @@ Stay updated with Cyber Security trends and Red Teaming tutorials through my pro
 * **IRC Library** (Auto-installed by the script)
 * **Active Internet Connection** (WAN)
 
+**How To Use Whatch [Video Here](https://google.com)**
+
+
 ## 🚀 Installation & Usage
 
 To deploy **Ninja_Secure_Chat**, follow these steps in your terminal:
